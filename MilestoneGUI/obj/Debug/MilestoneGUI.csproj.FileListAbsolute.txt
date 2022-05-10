@@ -1,0 +1,11 @@
+C:\Users\zswogger\source\repos\MilestoneGUI\MilestoneGUI\bin\Debug\MilestoneGUI.exe.config
+C:\Users\zswogger\source\repos\MilestoneGUI\MilestoneGUI\bin\Debug\MilestoneGUI.exe
+C:\Users\zswogger\source\repos\MilestoneGUI\MilestoneGUI\bin\Debug\MilestoneGUI.pdb
+C:\Users\zswogger\source\repos\MilestoneGUI\MilestoneGUI\obj\Debug\MilestoneGUI.Properties.Resources.resources
+C:\Users\zswogger\source\repos\MilestoneGUI\MilestoneGUI\obj\Debug\MilestoneGUI.SelectLevel.resources
+C:\Users\zswogger\source\repos\MilestoneGUI\MilestoneGUI\obj\Debug\MilestoneGUI.csproj.GenerateResource.cache
+C:\Users\zswogger\source\repos\MilestoneGUI\MilestoneGUI\obj\Debug\MilestoneGUI.csproj.CoreCompileInputs.cache
+C:\Users\zswogger\source\repos\MilestoneGUI\MilestoneGUI\obj\Debug\MilestoneGUI.exe
+C:\Users\zswogger\source\repos\MilestoneGUI\MilestoneGUI\obj\Debug\MilestoneGUI.pdb
+C:\Users\zswogger\source\repos\MilestoneGUI\MilestoneGUI\obj\Debug\MilestoneGUI.Game.resources
+C:\Users\zswogger\source\repos\MilestoneGUI\MilestoneGUI\obj\Debug\MilestoneGUI.csproj.AssemblyReference.cache

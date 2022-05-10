@@ -1,0 +1,13 @@
+C:\Users\zswogger\source\repos\Milestone1 - CST-250\Milestone1 - CST-250\bin\Debug\netcoreapp3.1\Milestone2.exe
+C:\Users\zswogger\source\repos\Milestone1 - CST-250\Milestone1 - CST-250\bin\Debug\netcoreapp3.1\Milestone2.deps.json
+C:\Users\zswogger\source\repos\Milestone1 - CST-250\Milestone1 - CST-250\bin\Debug\netcoreapp3.1\Milestone2.runtimeconfig.json
+C:\Users\zswogger\source\repos\Milestone1 - CST-250\Milestone1 - CST-250\bin\Debug\netcoreapp3.1\Milestone2.runtimeconfig.dev.json
+C:\Users\zswogger\source\repos\Milestone1 - CST-250\Milestone1 - CST-250\bin\Debug\netcoreapp3.1\Milestone2.dll
+C:\Users\zswogger\source\repos\Milestone1 - CST-250\Milestone1 - CST-250\bin\Debug\netcoreapp3.1\Milestone2.pdb
+C:\Users\zswogger\source\repos\Milestone1 - CST-250\Milestone1 - CST-250\obj\Debug\netcoreapp3.1\Milestone2.csproj.AssemblyReference.cache
+C:\Users\zswogger\source\repos\Milestone1 - CST-250\Milestone1 - CST-250\obj\Debug\netcoreapp3.1\Milestone2.AssemblyInfoInputs.cache
+C:\Users\zswogger\source\repos\Milestone1 - CST-250\Milestone1 - CST-250\obj\Debug\netcoreapp3.1\Milestone2.AssemblyInfo.cs
+C:\Users\zswogger\source\repos\Milestone1 - CST-250\Milestone1 - CST-250\obj\Debug\netcoreapp3.1\Milestone2.csproj.CoreCompileInputs.cache
+C:\Users\zswogger\source\repos\Milestone1 - CST-250\Milestone1 - CST-250\obj\Debug\netcoreapp3.1\Milestone2.dll
+C:\Users\zswogger\source\repos\Milestone1 - CST-250\Milestone1 - CST-250\obj\Debug\netcoreapp3.1\Milestone2.pdb
+C:\Users\zswogger\source\repos\Milestone1 - CST-250\Milestone1 - CST-250\obj\Debug\netcoreapp3.1\Milestone2.genruntimeconfig.cache

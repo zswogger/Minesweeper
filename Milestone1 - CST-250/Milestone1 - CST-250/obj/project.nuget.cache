@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "+D/6PdzNygr1q+ZpQB5ZUCf0W4tQ0PpBxNMZ9Qw1NnsxLScQNd2gTWJMoqmRhw0g3fehp4QRkZBlRpMcQPs38g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zswogger\\source\\repos\\Milestone1 - CST-250\\Milestone1 - CST-250\\Milestone2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zswogger\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.1\\microsoft.netcore.platforms.1.1.1.nupkg.sha512",
+    "C:\\Users\\zswogger\\.nuget\\packages\\microsoft.netcore.targets\\1.1.3\\microsoft.netcore.targets.1.1.3.nupkg.sha512",
+    "C:\\Users\\zswogger\\.nuget\\packages\\system.runtime\\4.3.1\\system.runtime.4.3.1.nupkg.sha512",
+    "C:\\Users\\zswogger\\.nuget\\packages\\system.runtime.extensions\\4.3.1\\system.runtime.extensions.4.3.1.nupkg.sha512",
+    "C:\\Users\\zswogger\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
